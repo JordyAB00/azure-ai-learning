@@ -9,10 +9,13 @@ Documentación de mi aprendizaje en Azure AI Services y desarrollo de soluciones
 - VS Code configurado con extensiones de Azure y Python
 - Git y GitHub configurados correctamente
 - SSH authentication funcionando
+- Ollama instalado con modelo llama3.2:3b
+- Primer script en Python interactuando con LLM local
+- Ambiente virtual creado para semana 1
 
 ### En progreso
-- Instalación de Ollama
-- Primer modelo de lenguaje local
+- Google Colab con GPU
+- Cuenta de Hugging Face
 
 ### Próximos pasos
 - Google Colab con GPU
