@@ -34,7 +34,6 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb
 
 # Azure
 .azure/
